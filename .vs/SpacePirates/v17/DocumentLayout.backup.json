@@ -1,0 +1,547 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|c:\\users\\willi\\documents\\gamejams\\spacepirates\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\assets\\scripts\\menus\\menuscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menus\\menuscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\assets\\scripts\\menus\\lobbycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menus\\lobbycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\assets\\scripts\\trainpartinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trainpartinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\assets\\scripts\\navigator\\navigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\navigator\\navigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\assets\\scripts\\gameplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\assets\\scripts\\menus\\menubutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menus\\menubutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\assets\\scripts\\objectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\assets\\scripts\\pilotingameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pilotingameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\assets\\scripts\\rewardcube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rewardcube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\assets\\scripts\\pilot\\pilotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pilot\\pilotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\assets\\scripts\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\assets\\scripts\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\assets\\scripts\\traininstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\traininstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\assets\\scripts\\routeinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\routeinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\assets\\scripts\\trainpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trainpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\assets\\scripts\\worldmodelinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\worldmodelinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\assets\\simpletraininstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|solutionrelative:assets\\simpletraininstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\assets\\scripts\\splineclick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\splineclick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\assets\\scripts\\clickinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clickinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\assets\\scripts\\navigator\\navigatorui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\navigator\\navigatorui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\assets\\scripts\\menus\\alignmentsceneuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menus\\alignmentsceneuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\assets\\prefabs\\static\\appearances\\reducenavigatorparticles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabs\\static\\appearances\\reducenavigatorparticles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\assets\\scripts\\splinefollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\splinefollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\assets\\scripts\\gyrocam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gyrocam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\assets\\scripts\\turret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\turret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\GridMap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GridMap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\assets\\scripts\\escort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\assets\\scripts\\turretparticlesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\turretparticlesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\assets\\scripts\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\assets\\scripts\\explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAEBCA9-830F-2F0D-5059-A4FDA07A7060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PilotController.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\Pilot\\PilotController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pilot\\PilotController.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\Pilot\\PilotController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pilot\\PilotController.cs",
+              "ViewState": "AgIAAPoAAAAAAAAAAAAUwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:56:48.122Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TrainPart.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\TrainPart.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TrainPart.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\TrainPart.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TrainPart.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwBoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T18:16:41.456Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TrainInstance.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\TrainInstance.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TrainInstance.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\TrainInstance.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TrainInstance.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwB4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T18:32:47.945Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Train.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\Train.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Train.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\Train.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Train.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T18:30:37.612Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SplineFollower.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\SplineFollower.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SplineFollower.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\SplineFollower.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SplineFollower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T22:14:44.942Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GamePlan.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\GamePlan.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GamePlan.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\GamePlan.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GamePlan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T22:58:24.579Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RouteInstance.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\RouteInstance.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RouteInstance.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\RouteInstance.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RouteInstance.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAswIAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T22:22:32.737Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Route.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\Route.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Route.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\Route.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Route.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T18:15:17.802Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WorldModelInstance.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\WorldModelInstance.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WorldModelInstance.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\WorldModelInstance.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WorldModelInstance.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwDoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T00:02:48.654Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NavigatorUI.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\Navigator\\NavigatorUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Navigator\\NavigatorUI.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\Navigator\\NavigatorUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Navigator\\NavigatorUI.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T14:36:22.98Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SplineClick.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\SplineClick.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SplineClick.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\SplineClick.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SplineClick.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T14:53:18.669Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Navigator.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\Navigator\\Navigator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Navigator\\Navigator.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\Navigator\\Navigator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Navigator\\Navigator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T13:18:11.058Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PilotInGameUI.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\PilotInGameUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PilotInGameUI.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\PilotInGameUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PilotInGameUI.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAiwF4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T21:36:40.523Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RewardCube.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\RewardCube.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RewardCube.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\RewardCube.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RewardCube.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:21:52.826Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuScene.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\Menus\\MenuScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menus\\MenuScene.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\Menus\\MenuScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menus\\MenuScene.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:31:33.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuButton.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\Menus\\MenuButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menus\\MenuButton.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\Menus\\MenuButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menus\\MenuButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:31:29.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SimpleTrainInstance.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\SimpleTrainInstance.cs",
+              "RelativeDocumentMoniker": "Assets\\SimpleTrainInstance.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\SimpleTrainInstance.cs",
+              "RelativeToolTip": "Assets\\SimpleTrainInstance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T21:50:55.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClickInfo.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\ClickInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ClickInfo.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\ClickInfo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ClickInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T19:51:01.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AlignmentSceneUIController.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\Menus\\AlignmentSceneUIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menus\\AlignmentSceneUIController.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\Menus\\AlignmentSceneUIController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menus\\AlignmentSceneUIController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwC0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T14:15:26.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ReduceNavigatorParticles.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Prefabs\\Static\\Appearances\\ReduceNavigatorParticles.cs",
+              "RelativeDocumentMoniker": "Assets\\Prefabs\\Static\\Appearances\\ReduceNavigatorParticles.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Prefabs\\Static\\Appearances\\ReduceNavigatorParticles.cs",
+              "RelativeToolTip": "Assets\\Prefabs\\Static\\Appearances\\ReduceNavigatorParticles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T13:25:47.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GridMap.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\GridMap.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GridMap.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\GridMap.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GridMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T13:09:10.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Escort.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\Escort.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Escort.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\Escort.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Escort.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCEAAACaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:53:23.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameController.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\GameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAD4vxgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:28:02.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LobbyController.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\Menus\\LobbyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menus\\LobbyController.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\Menus\\LobbyController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menus\\LobbyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T12:05:40.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GyroCam.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\GyroCam.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GyroCam.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\GyroCam.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GyroCam.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDYAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T22:27:10.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrainPartInstance.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\TrainPartInstance.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TrainPartInstance.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\TrainPartInstance.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TrainPartInstance.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T22:07:16.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CameraShake.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\CameraShake.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraShake.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\CameraShake.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraShake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T17:01:19.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TurretParticleSystem.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\TurretParticleSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TurretParticleSystem.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\TurretParticleSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TurretParticleSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:17:34.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Turret.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\Turret.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Turret.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\Turret.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Turret.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:37:42.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Explosion.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\Explosion.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Explosion.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\Explosion.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Explosion.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:28:04.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAgwEwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T13:38:53.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ObjectPool.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\ObjectPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectPool.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\SpacePirates\\Assets\\Scripts\\ObjectPool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObjectPool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T21:14:41.435Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

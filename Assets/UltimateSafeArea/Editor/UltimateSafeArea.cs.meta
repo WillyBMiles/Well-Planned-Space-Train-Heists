@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6d45ea15f3a8f3a4bab79a52f8fddd2b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 235121
+  packageName: Ultimate Safe Area
+  packageVersion: 1.0
+  assetPath: Assets/UltimateSafeArea/Editor/UltimateSafeArea.cs
+  uploadId: 538227

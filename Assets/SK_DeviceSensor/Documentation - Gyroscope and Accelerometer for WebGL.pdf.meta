@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8f2e3238d1c83472c98f080b706832ad
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270653
+  packageName: Gyroscope and Accelerometer for WebGL
+  packageVersion: 1.0
+  assetPath: Assets/SK_DeviceSensor/Documentation - Gyroscope and Accelerometer for
+    WebGL.pdf
+  uploadId: 643133

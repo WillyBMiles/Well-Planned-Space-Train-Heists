@@ -1,0 +1,8 @@
+'UltimateSafeArea'
+
+Usage:
+
+1. Simply navigate to "Tools" in the Toolbar and choose either the "Apply in Scene" or "Apply in Project" option. 
+The Plugin will then optimize your current scene or whole project for Safe Areas.
+
+Note: Your UI will only update once you run the game in Unity Simulator mode.

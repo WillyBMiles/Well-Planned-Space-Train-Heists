@@ -1,0 +1,4 @@
+repository "SpacePirates/SpacePirates@901739@cloud"
+  path "/"
+    br "/main"
+    co "/main"

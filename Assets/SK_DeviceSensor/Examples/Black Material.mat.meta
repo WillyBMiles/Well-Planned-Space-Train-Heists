@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fbc54ea3f66f6433986a71e29c435370
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270653
+  packageName: Gyroscope and Accelerometer for WebGL
+  packageVersion: 1.0
+  assetPath: Assets/SK_DeviceSensor/Examples/Black Material.mat
+  uploadId: 643133
